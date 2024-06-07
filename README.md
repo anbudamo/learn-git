@@ -5,3 +5,5 @@ This project is currently in progress. As of this moment the purpose of this pro
 be designed with a single user in mind. 
 
 Conclusion: We require 0L funding to kickstart the project. 
+
+- Staged changes
